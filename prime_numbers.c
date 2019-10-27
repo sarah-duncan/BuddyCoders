@@ -1,3 +1,4 @@
+/*Code prime_numbers.c by Sarah Duncan Last Modified 27/10/2019*/
 #include <stdio.h>
 /* Declare function*/
 float input();
